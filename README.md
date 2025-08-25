@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/StKrz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Junior+Software+Engineer;\.NET+%26+Blazor+Enthusiast;Building+things+%7C+Learning+fast+%7C+Shipping+often" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Software+Engineer;\.NET+%26+Blazor+Enthusiast;Building+things+%7C+Learning+fast+%7C+Shipping+often" alt="Typing SVG" />
   </a>
 </p>
 
