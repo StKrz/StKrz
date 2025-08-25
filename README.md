@@ -77,7 +77,7 @@
 
 * ⚡ Motto: <i>Code • Learn • Build • Repeat</i>
 * 🛠️ Favorite dev loop: <code>read → prototype → refactor → ship</code>
-* 🎧 Often coding with synthwave / lo‑fi beats
+* 🎧 Often coding with rap music
 
 </details>
 
