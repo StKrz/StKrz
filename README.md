@@ -1,50 +1,86 @@
-<h1 align="center">👋 Hey there, I'm Stavros</h1>
+<!-- Animated, modern, fancy GitHub Profile README for Stavros (username: StKrz) -->
 
 <p align="center">
-  🚀 Junior Software Engineer | 💻 .NET Enthusiast | 🌱 Always Learning  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Stavros%20K.&fontAlign=50&fontAlignY=40&color=0:6a00ff,100:00e5ff&animation=twinkling&fontColor=FFFFFF" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/StKrz">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Junior+Software+Engineer;\.NET+%26+Blazor+Enthusiast;Building+things+%7C+Learning+fast+%7C+Shipping+often" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/StKrz?tab=followers"><img src="https://img.shields.io/github/followers/StKrz?label=Followers&style=for-the-badge" /></a>
+  <a href="https://github.com/StKrz"><img src="https://img.shields.io/github/stars/StKrz?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=StKrz&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔭 Currently exploring and building my **own projects**  
-- 🌱 Constantly learning new technologies & best practices  
-- ⚡ I enjoy turning ideas into reality through **clean & functional code**  
-- 🎯 Goal-driven, curious, and always up for a challenge  
+### 👋 Hi, I’m Stavros
+
+* 🔭 Currently **building my own projects** and polishing real‑world skills
+* 🌱 Obsessed with **learning**, clean code, and pragmatic delivery
+* 🧩 Interests: `.NET`, `C#`, `ASP.NET Core`, `Blazor`, `EF Core`, web architecture
+* 🎯 Goal: ship useful software, iterate fast, learn faster
+* 🗣️ Languages: EN/GR
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,git,github,postgresql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,visualstudio,azure,postgresql,sqlite,git,github,html,css,js" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 What I’m Up To
+
+* ✨ Exploring new patterns & tooling in the .NET ecosystem
+* 📚 Reading docs, source code, and shipping small features every day
+* 🤝 Open to collaborating on small, well‑scoped ideas
+
+---
+
+### 📊 Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StKrz&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StKrz&theme=tokyonight" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StKrz&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=StKrz&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=StKrz&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+<p align="center">
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StKrz&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
 
 ---
 
-## 🚀 Current Focus
-✨ Building side projects  
-📚 Expanding my knowledge in **.NET & Web Development**  
-🤝 Connecting with other developers and sharing ideas  
+### 🧰 Toolbox Highlights
+
+* Patterns: Repository, CQRS‑lite, DTO mapping, async/await best practices
+* Tooling: GitHub Actions, REST APIs, LINQ, minimal APIs, EF Core Migrations
+* UX: Clean, accessible UIs; modern components; pragmatic animations
 
 ---
 
-## 🔗 Connect with Me
+### 📫 Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/stavros-kyriazopoulos-67177228a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
-<p align="center">⚡ “Code. Learn. Build. Repeat.” ⚡</p>
+<details>
+  <summary><b>Fun little extra (click)</b></summary>
 
+* ⚡ Motto: <i>Code • Learn • Build • Repeat</i>
+* 🛠️ Favorite dev loop: <code>read → prototype → refactor → ship</code>
+* 🎧 Often coding with synthwave / lo‑fi beats
+
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00e5ff,100:6a00ff"/>
+</p>
