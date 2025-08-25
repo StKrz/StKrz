@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="48" alt="Blazor" />
-  <img src="https://skillicons.dev/icons?i=visualstudio,postgresql,postman,git,github,html,css,java,js" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,postgresql,mysql,postman,git,github,html,css,java" />
 </p>
 
 ---
