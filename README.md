@@ -47,11 +47,8 @@
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=StKrz&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=StKrz&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-<p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StKrz&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=StKrz&hide=contribs,prs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StKrz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
