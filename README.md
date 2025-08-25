@@ -31,7 +31,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,visualstudio,azure,postgresql,sqlite,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,postgresql,postman,git,github,html,css,js" />
 </p>
 
 ---
