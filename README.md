@@ -55,9 +55,12 @@
 
 ### 🧰 Toolbox Highlights
 
-* Patterns: Repository, CQRS‑lite, DTO mapping, async/await best practices
-* Tooling: GitHub Actions, REST APIs, LINQ, minimal APIs, EF Core Migrations
+* Patterns: Repository, DTO mapping, async/await best practices
 * UX: Clean, accessible UIs; modern components; pragmatic animations
+* RESTful APIs with ASP.NET Core (Minimal APIs/Controllers), LINQ
+* EF Core (Migrations, relationships, transactions)
+* Blazor (WASM) + MudBlazor for modern, responsive UIs
+* Git/GitHub workflows & GitHub Actions
 
 ---
 
